@@ -1,10 +1,10 @@
 
-variable_1 = 10  #Creates a new number variable (or int) named "variable_1" with the value: 1
+age = 18  #Creates a new number variable named "age" with the value: 18
 
-variable_2 = "Cheese"  #Creates a new String variable named "variable_2" with the value: Cheese
+name = "Parker"  #Creates a new String variable named "name" with the value: Parker
 
-variable_3 = True  #Creates a new true/false (boolean) variable named "variable_3" with the value: True
+likes_puppies = True  #Creates a new boolean variable named "likes_puppies" with the value: True
 
-print(variable_1, variable_2, variable_3) #Prints out the variable values one after another (denoted by the commas)
+print(age, name, likes_puppies) #Prints out the variable values one after another (denoted by the commas)
 
-#OUTPUT-> 10 Cheese True
+#OUTPUT-> 18 Parker True

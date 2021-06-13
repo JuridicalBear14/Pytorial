@@ -7,8 +7,8 @@ variable_2 = variable_1  #Makes a new variable named "variable_2", and sets it t
 
 variable_3 = "kittens"  #Makes a new variable named "variable_3" with the value: kittens
 
-variable_3 = "puppies"  #Changes the value of variable_3 to "puppies"
+variable_3 = False  #Changes the value of variable_3 to False
 
 print(variable_2, variable_3)  #Prints the value of variable_2 and variable_3
 
-#OUTPUT-> 0 puppies
+#OUTPUT-> 0 False

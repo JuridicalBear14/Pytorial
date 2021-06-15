@@ -7,12 +7,14 @@ variable_1 = variable_1 - 1
 #(aka: subracts 1 from variable_1)
 
 variable_2 = "kittens"  
-#Makes a new variable named "variable_3" with the value: kittens
+#Makes a new variable named "variable_2" with the value: kittens
 
 variable_2 = False  
-#Changes the value of variable_3 to False
+#Changes the value of variable_2 to False
 
 print(variable_1, variable_2)  
-#Prints the value of variable_2 and variable_3
+#Prints the value of variable_1 and variable_2
 
 #OUTPUT-> 0 False
+
+

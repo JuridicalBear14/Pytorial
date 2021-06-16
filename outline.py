@@ -2,7 +2,6 @@ class Pytorial:
 
     #1: Introduction
     #2: Setup
-    #3: Why Python
     
     def Basics(self):
         print("Print")
@@ -29,7 +28,7 @@ class Pytorial:
         print("Divisible-by-7-inator")
         print("Challenges")
 
-    #4: Conclusion
+    #3: Conclusion
 
 
 

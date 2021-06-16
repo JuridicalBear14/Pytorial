@@ -2,6 +2,7 @@ class Pytorial:
 
     #1: Introduction
     #2: Setup
+    #3: Why Python
     
     def Basics(self):
         print("Print")

@@ -1,7 +1,7 @@
 
 print("Input Grade")
 
-grade = input()
+grade = int(input())
 
 #Checks if grade is above 90, if not is it above 80, so on and so forth
 
